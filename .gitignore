@@ -1,0 +1,10 @@
+# Python virtual environments
+.venv/
+
+# Large model weights and datasets
+*.pt
+data/
+outputs/
+
+# IDE files
+.idea/

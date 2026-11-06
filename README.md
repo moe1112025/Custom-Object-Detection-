@@ -56,7 +56,7 @@ custom_object_detection/
 ├── outputs/
 │   ├── prediction.png
 │   └── screenshot.png
-│
+├── .gitignore
 ├── main.py
 │
 ├── requirements.txt
